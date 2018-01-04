@@ -2,3 +2,6 @@
          Theme Overrides
 *******************************/
 
+.ui.normal.header {
+    font-weight: normal;
+}
