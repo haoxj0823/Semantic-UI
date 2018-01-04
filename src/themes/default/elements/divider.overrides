@@ -2,6 +2,10 @@
          Theme Overrides
 *******************************/
 
+.ui.normal.divider {
+  font-weight: normal;
+  color: @lightTextColor;
+}
 
 .ui.horizontal.divider:before,
 .ui.horizontal.divider:after {
